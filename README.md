@@ -1,4 +1,4 @@
-# Oracle Price Feed Project
+# Oracle Superchain and Optimism Price Feed Project
 
 This project demonstrates a decentralized Oracle platform that fetches price feeds for blockchain assets using Optimism and the Superchain ecosystem. The Oracle provides real-time data with transparency and security, enabling reliable on-chain interactions for decentralized applications.
 
