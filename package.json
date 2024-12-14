@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@axelar-network/axelar-gmp-sdk-solidity": "^6.0.4",
+    "@axelar-network/axelarjs-sdk": "^0.17.0",
+    "@openzeppelin/contracts": "^5.1.0",
+    "axios": "^1.7.9",
+    "ethers": "^5.7.2",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.7",
+    "hardhat": "^2.22.17"
+  }
+}
